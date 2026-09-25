@@ -1,4 +1,4 @@
-# LeetCode 题解库
+# Leetcode-STL
 
 这个仓库用来长期保存 LeetCode 刷题记录、题解、复盘笔记和面试准备材料。
 
